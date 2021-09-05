@@ -1,0 +1,10 @@
+/*
+ *  UCF COP3330 Fall 2021 Exercise 1 Solution
+ *  Copyright 2021 Joshua Romero
+ */
+
+Print "What is your name?"
+
+input user's name
+
+Print "Hello, users name, nice to meet you!"
